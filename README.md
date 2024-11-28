@@ -1,8 +1,7 @@
----
-
 # Dataset Overview
 
-This repository houses three datasets that have been merged into a single, cohesive dataset to enable in-depth analysis and predictive modeling. Below is a summary of each dataset and the purpose of the merged data:
+This repository houses three datasets that have been merged into a single, cohesive dataset to enable in-depth analysis and predictive modeling.
+Below is a summary of each dataset and the purpose of the merged data:
 
 ## 1. Stores Dataset
 - **File:** `stores_data_set.csv`
@@ -37,7 +36,6 @@ The datasets are merged using **Store** and **Date** as the primary keys to crea
 - Facilitates correlation analysis between sales and external factors.
 - Enables predictive modeling for sales trends and feature impacts.
 
----
 
 ### Use Cases
 1. **Exploratory Data Analysis:** Understand sales patterns, store performance, and external impacts.
@@ -45,5 +43,3 @@ The datasets are merged using **Store** and **Date** as the primary keys to crea
 3. **Business Insights:** Inform store management strategies to improve sales performance.
 
 
-
----
