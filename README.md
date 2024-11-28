@@ -45,8 +45,5 @@ The datasets are merged using **Store** and **Date** as the primary keys to crea
 3. **Business Insights:** Inform store management strategies to improve sales performance.
 
 
-REFERENCE URL:/content/stores_data_set (1).csv
-              /content/sales_data_set (1).csv
-              /content/Features_data_set (1).csv
 
 ---
